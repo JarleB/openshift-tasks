@@ -94,7 +94,7 @@
                 </div>
                 <div class="form-group">
                   <div class="col-md-12">
-                    <button type="button" class="btn btn-primary btn-block" id="load">LXOXAXD!</button>
+                    <button type="button" class="btn btn-primary btn-block" id="load">LYOYAYD!</button>
                   </div>
                 </div>
               </form>
